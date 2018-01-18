@@ -10,7 +10,7 @@ public class ConnectionFactory {
 	    private static String url;
 	    private static String username;
 	    private static String password;
-jjjjkk
+
 	    static{
 	        System.out.println("from static block..........");
 	        ResourceBundle bundle = ResourceBundle.getBundle("com.shimaa.pharma.common.dao.jdbc");
